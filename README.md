@@ -8,6 +8,10 @@ Voici un programme que j'ai fia til y a un petit moment mais je ne l'avait pas p
 
 Tout d'abord installer le dossier complet.
 
+## bliblihotèque :
+
+Une faudra vous proccurez la bliblihotèque simpleaudio avec la commande : `pip3 install simpleaudio`
+
 ## Lancement :
 
 Une fois cela fait il ne vous reste plus qu'a lancer le programme et à marqué le mots ou la phrase que vous voulez traduire. Il vous jouera même le morse avec du son. 
